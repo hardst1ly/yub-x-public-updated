@@ -1,0 +1,10 @@
+C:\Users\qwes1\Desktop\YuB-X-Public-updated\x64\Release\YuB-X-Interface.exe.config
+C:\Users\qwes1\Desktop\YuB-X-Public-updated\x64\Release\YuB-X-Interface.exe
+C:\Users\qwes1\Desktop\YuB-X-Public-updated\x64\Release\YuB-X-Interface.pdb
+C:\Users\qwes1\Desktop\YuB-X-Public-updated\YuB-X-Interface\obj\Release\YuB-X-Interface.csproj.AssemblyReference.cache
+C:\Users\qwes1\Desktop\YuB-X-Public-updated\YuB-X-Interface\obj\Release\YuB_X_Interface.Properties.Resources.resources
+C:\Users\qwes1\Desktop\YuB-X-Public-updated\YuB-X-Interface\obj\Release\YuB_X_Interface.YuB_X_Interface.resources
+C:\Users\qwes1\Desktop\YuB-X-Public-updated\YuB-X-Interface\obj\Release\YuB-X-Interface.csproj.GenerateResource.cache
+C:\Users\qwes1\Desktop\YuB-X-Public-updated\YuB-X-Interface\obj\Release\YuB-X-Interface.csproj.CoreCompileInputs.cache
+C:\Users\qwes1\Desktop\YuB-X-Public-updated\YuB-X-Interface\obj\Release\YuB-X-Interface.exe
+C:\Users\qwes1\Desktop\YuB-X-Public-updated\YuB-X-Interface\obj\Release\YuB-X-Interface.pdb
